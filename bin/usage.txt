@@ -1,0 +1,10 @@
+usage: get-saxon-jar {OPTIONS}
+
+  download saxon home edition jar file from maven2 repository
+  
+  OPTIONS:
+
+  -o(--out) FILENAME    Save as FILENAME       
+  -l, --list            Select version from list
+  -h, --help            Print this help message
+                  
